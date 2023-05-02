@@ -150,7 +150,6 @@ body {
 	font-weight: 800;
 	font-size: 22px;
 }
-
 #services {
 	margin: auto;
 	background-color: #A8D5D8 ;
@@ -166,7 +165,6 @@ body {
 	left: 0;
 	z-index: 0;
 }
-
 #services .container {
 	justify-content: space-between;
 	display: flex;
@@ -194,16 +192,6 @@ body {
 #contact .container {
 	display: flex;
 }
-/* .picture.right::before {
-	content: ' ';
-	background-color: #BEB45A;
-	width: 374px;
-	height: 329px;
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	z-index: -1;
-} */
 .form-container {
 	flex : 2;
 
