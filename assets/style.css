@@ -90,7 +90,6 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	/* background-color: #BEB45A; */
 	background-color: #7F7733;
 	border-radius:0 ;
 }
@@ -117,10 +116,6 @@ body {
 	height: 100%; 
 	object-fit: cover;
 	padding: .5em;
-	/* object-fit: cover;
-    padding: 0.5em;
-    width: 440px;
-    height: 440px; */
 }
 .mg-prev, .mg-next {
 	width: 30px;
